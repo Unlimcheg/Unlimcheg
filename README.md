@@ -1,5 +1,7 @@
 <div style="text-align: center;">
-  [![Header](https://github.com/Unlimcheg/Unlimcheg/blob/main/assets/Header.png)](https://www.linkedin.com/in/alex-pushilin/)
+  <a href="https://www.linkedin.com/in/alex-pushilin/">
+    <img src="https://github.com/Unlimcheg/Unlimcheg/blob/main/assets/Header.png" alt="Header Image" />
+  </a>
 </div>
 
 ## Full-stack developer with a knack for turning ideas into reality through code. Excited about the ever-evolving tech landscape and always eager to take on new challenges.
