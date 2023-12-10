@@ -9,10 +9,10 @@
 ### Tools
 ![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-budge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-budge&logo=spring&logoColor=white)
-![JS](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-budge&logo=javascript&logoColor=F7DF1E)
+![JS](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-budge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-budge&logo=react&logoColor=61DAFB)
 ![Mongo](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-budge&logo=mongodb&logoColor=white)
-![FireBase](https://img.shields.io/badge/FIREBASE-20232A?style=for-the-budge&logo=FIREBASE&logoColor=red)
+![FireBase](https://img.shields.io/badge/FIREBASE-blue?style=for-the-budge&logo=FIREBASE&logoColor=gold)
 ![npm](https://img.shields.io/badge/NPM-red?style=for-the-budge&logo=NPM&logoColor=white)
 ![docker](https://img.shields.io/badge/DOCKER-blue?style=for-the-budge&logo=docker&logoColor=white)
 
