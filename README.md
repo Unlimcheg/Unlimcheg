@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center">
   <a href="https://www.linkedin.com/in/alex-pushilin/">
-    <img src="https://github.com/Unlimcheg/Unlimcheg/blob/main/assets/Header.png" alt="Header Image" />
+    <img src="https://github.com/Unlimcheg/Unlimcheg/blob/main/assets/Header2.png" alt="Header Image" />
   </a>
 </div>
 
