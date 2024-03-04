@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Full-stack developer with a knack for turning ideas into reality through code. Excited about the ever-evolving tech landscape and always eager to take on new challenges.
+## I write code. I know what "quickly", "urgent" and "right now" means. I know how to set goals and achieve them.
 
 ### Tools
 ![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-budge&logo=openjdk&logoColor=white)
